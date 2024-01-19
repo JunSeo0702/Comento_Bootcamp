@@ -45,4 +45,5 @@ MovieVO.java
   </code>
 </pre>
 # 실행 결과
+![first](https://github.com/JunSeo0702/Comento_Bootcamp/assets/144515239/0750f8f1-f3f8-4b95-b83c-831973fc5519)
 
