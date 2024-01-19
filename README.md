@@ -1,1 +1,2 @@
-# Comento_Bootcamp
+# SW개발 직무부트캠프
+1차 과제 (개발환경 세팅)
